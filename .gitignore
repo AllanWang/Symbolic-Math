@@ -1,3 +1,6 @@
 .stack-work/
 Symbolic-Math.cabal
+cabal.config
 *~
+.idea/
+*.iml
